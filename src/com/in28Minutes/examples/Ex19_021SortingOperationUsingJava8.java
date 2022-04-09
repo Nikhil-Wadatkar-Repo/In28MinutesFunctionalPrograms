@@ -7,7 +7,7 @@ import java.util.function.BiPredicate;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-public class Ex19_SortingOperation {
+public class Ex19_021SortingOperationUsingJava8 {
 
 	public static void main(String[] args) {
 		List<Course> courses = Arrays.asList(new Course("Spring", "Framework", 98, 20000),
